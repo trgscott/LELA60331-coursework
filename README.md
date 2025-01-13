@@ -1,6 +1,6 @@
 # LELA60331-coursework
 An NLP System for the classification of product reviews - assigning helpfulness ratings.
-This project contains the following sections of code which need to be run sequentially, so you can run all. If you would like to skip to section 11, sections 1 and 2 still need running first. There is in-code annotation to help describe the processes.
+This project contains the following sections of code which need to be run sequentially, so you can run all. If you would like to skip to section 11, sections 1 and 2 still need running first. There is in-code annotation to help describe the processes. The project is written entirely in Python, just click on the ipynb file above.
 1. Loading the data and libraries
 2. Top down tokenisation
 3. Create one-hot encodings
